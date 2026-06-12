@@ -1,0 +1,7 @@
+Today I learned:
+
+1. How to install Python
+2. How to use VS Code
+3. How input() works
+4. How variables store values
+5. How print() displays output
