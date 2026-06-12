@@ -1,0 +1,18 @@
+List Notes
+
+List stores multiple elements under a single name.
+enclosed with braces[]
+syntax: 
+name=[ram,sam,bhuvi]
+data can be added to list using append()
+syntax:
+listname.append(element)
+initializing to a specific position
+list_name.insert(index,element)
+elements can be removed using remove
+list.remove(element)
+list.remove(index,element)
+the entire list can be reversed using reverse
+list.reverse
+len() gives the lenght of a list 
+sort() sorts the list 
